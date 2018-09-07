@@ -1,4 +1,4 @@
-/*!
+/*
  * Slideshow v1
  * by Mustafa Haidari
  *
