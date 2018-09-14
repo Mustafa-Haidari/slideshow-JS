@@ -1,5 +1,5 @@
 /*
- * Slideshow v1
+ * Slideshow v2 - UPDATED UI
  * by Mustafa Haidari
  *
  * Copyright (c) 2018 Mustafa Haidari
